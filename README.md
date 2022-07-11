@@ -1,3 +1,6 @@
+### About Ruzaev Dmitry
+Dmitry, also known as the owlcorn - web-developer. He blogs [Frintest](http://frintest.com/).
+
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=flat&logo=javascript)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-090909?style=flat&logo=react)
